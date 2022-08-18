@@ -13,7 +13,7 @@ Docentes: Martin Palazzo, Nicolas Aguirre, Santiago Chas.
 
 | Item | Detalle |
 | --- | ----------- |
-| [Guía Anaconda y primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/instalar_python_jupyter.pdf)  | Tutorial para dar los primeros pasos en Jupyter Notebooks con Anaconda |
+| [Guía Anaconda y primeros pasos en Python](https://github.com/clusterai/clusterai_2022/blob/main/clase00/instalar_python_jupyter.pdf)  | Tutorial para dar los primeros pasos en Jupyter Notebooks con Anaconda |
 | [Notebook primeros pasos en Python](https://github.com/clusterai/clusterai_2022/blob/main/clase00/python_primeros_pasos.ipynb)         | Jupyter Notebook para ejecutar los primeros comandos en Python |
 
 ## Clases Grabadas
