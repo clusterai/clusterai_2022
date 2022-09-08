@@ -26,8 +26,8 @@ Docentes: Martin Palazzo, Nicolas Aguirre, Santiago Chas.
 
 | Clase | Título | Tema | Tipo |
 | --- | ----------- | ------ | --- |
-| 00 | [Slides Introduccion a la Ciencia de Datos](https://github.com/clusterai/clusterai_2022/blob/main/clase00/utn_clusterai_2022_clase00.pdf)                                                                                  | Intro a la Ciencia de Datos | Teoría |
-| 01 | [Slides Distribuciones de Probabilidad y variables aleatorias](https://github.com/clusterai/clusterai_2022/blob/main/clase01/clusterai_2022_clase01.pdf)                                                                                  | Intro a la Ciencia de Datos | Teoría |
+| 00 | [Slides Introduccion a la Ciencia de Datos y variables aleatorias](https://github.com/clusterai/clusterai_2022/blob/main/clase00/utn_clusterai_2022_clase00.pdf)                                                                                  | Intro a la Ciencia de Datos | Teoría |
+| 01 | [Slides Analisis Exploratorio de Datos y Estadistica Descriptiva](https://github.com/clusterai/clusterai_2022/blob/main/clase01/clusterai_2022_clase01.pdf)                                                                                  | Intro a la Ciencia de Datos | Teoría |
 |    | [Notebook Analisis Exploratorio de Datos: Google Play](https://github.com/clusterai/clusterai_2022/blob/main/clase01/clusterai_2022_clase01_EDA_google_play_store.ipynb)                | Analisis Exploratorio de Datos | Codigo |
 |    | [Notebook Analisis Exploratorio de Datos: Visualizaciones](https://github.com/clusterai/clusterai_2022/blob/main/clase01/clusterai_2022_clase_01_comandos_basicos_graficos_iris.ipynb)                | Analisis Exploratorio de Datos | Codigo |
 | 02 | [Slides Teorema de Bayes y Preprocesamiento de datos](https://github.com/clusterai/clusterai_2022/blob/main/clase02/clusterai_2022_clase02_presentacion.pdf)                                                                                  | Intro a la Ciencia de Datos | Teoría |
